@@ -25,8 +25,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fouad-attallah&show_icons=true&theme=codeSTACKr" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fouad-attallah&layout=compact&langs_count=6&theme=codeSTACKr" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FouadAdel1&show_icons=true&theme=codeSTACKr" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FouadAdel1&layout=compact&langs_count=6&theme=codeSTACKr" height="180" />
 </p>
 
 ---
